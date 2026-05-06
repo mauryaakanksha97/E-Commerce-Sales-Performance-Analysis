@@ -1,5 +1,4 @@
 # E-Commerce-Sales-Performance-Analysis
-# 🛒 E-commerce Sales Analysis using MySQL
 
 ## 📌 Project Overview
 This project presents an end-to-end E-commerce Sales Analysis solution built using MySQL. The objective of this project is to analyze business performance, customer transactions, product categories, and profitability using structured SQL queries and relational database concepts.
