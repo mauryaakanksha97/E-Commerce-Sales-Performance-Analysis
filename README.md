@@ -114,10 +114,7 @@ Ecommerce_Sales_Analysis/
 ├── order_details.csv
 ├── sales_target.csv
 ├── README.md
-│
-└── screenshots/
-
----
+```
 
 ##▶️ How to Run the Project
 1. Open MySQL Workbench
