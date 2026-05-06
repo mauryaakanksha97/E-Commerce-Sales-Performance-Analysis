@@ -117,6 +117,8 @@ Ecommerce_Sales_Analysis/
 │
 └── screenshots/
 
+---
+
 ##▶️ How to Run the Project
 1. Open MySQL Workbench
 2. Run the SQL script:
