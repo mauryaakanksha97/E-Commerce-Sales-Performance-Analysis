@@ -133,10 +133,6 @@ Through this project, I gained hands-on experience in:
 5. Writing optimized analytical queries
 6. Converting raw transactional data into actionable insights
 
-##💼 Resume Highlight
-E-commerce Sales Analysis using MySQL
-Designed and developed an end-to-end SQL-based sales analytics project involving relational schema design, data validation, KPI analysis, and business insight generation using advanced SQL queries.
-
 ##🔗 Future Improvements
 Build interactive Power BI dashboard
 Add customer segmentation analysis
